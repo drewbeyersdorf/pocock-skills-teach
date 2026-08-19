@@ -2,6 +2,8 @@
 
 This repo is a **teaching companion**. It is not a fork of [mattpocock/skills](https://github.com/mattpocock/skills). It does not copy his `SKILL.md` files. It does not wrap them as MCP tools.
 
+**Saltie** is our cartoon saltwater crocodile. Matt has no official croc. Saltie is the student: territorial, four skills, no merch pile. See [MASCOT.md](MASCOT.md).
+
 Read him first:
 
 - Talk — [Building Great Agent Skills](https://youtu.be/UNzCG3lw6O0)
